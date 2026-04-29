@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "name": "Worknoon",
+      "url": "https://henry.breatha.org",
+      "logo": "#",
+      "sameAs": [
+        "https://www.linkedin.com/company/worknoon",
+        "https://twitter.com/worknoon"
+      ]
+    },
+    {
+      "@type": "Person",
+      "name": "Henry Nwobodo",
+      "jobTitle": "Founder - Dragsdev",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Worknoon"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "name": "Worknoon",
+      "url": "https://henry.breatha.org",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Worknoon"
+      }
+    }
+  ]
+}

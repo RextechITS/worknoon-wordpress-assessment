@@ -128,9 +128,7 @@ Setup Instructions
 
 1. Clone the repository:
 
-   ```bash
    git clone https://github.com/rextechits/worknoon-wordpress-assessment.git
-   ```
 
 2. Move files into your WordPress environment:
    - Place theme/plugin files in `/wp-content/`
@@ -138,7 +136,7 @@ Setup Instructions
 3. Import database (if applicable)
 
 4. Install required plugins:
-   - Elementor
+   - Elementor/Elementor Pro
    - ACF
    - LiteSpeed Cache
    - SiteSEO
@@ -198,7 +196,7 @@ Demo Video
 Submission
 
 GitHub Repository:
-[Insert GitHub Repo Link]
+[Insert GitHub Repo Link - https://github.com/rextechits/worknoon-wordpress-assessment ]
 
 Demo Video:
 https://github.com/RextechITS/worknoon-wordpress-assessment/
