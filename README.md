@@ -32,7 +32,8 @@ Content Layer (Structured Data)
 - Enables non-technical users to update content easily
 - Avoids hardcoding content inside Elementor
 
-SEO Layer
+SEO Layer:
+Google Search Console is/will be configured for indexing monitoring, sitemap submission, and crawl diagnostics
 
 - Schema markup (JSON-LD)
 - Proper heading hierarchy (H1–H3)
@@ -196,11 +197,10 @@ Demo Video
 Submission
 
 GitHub Repository:
-[Insert GitHub Repo Link - https://github.com/rextechits/worknoon-wordpress-assessment ]
+[GitHub Repo Link - https://github.com/rextechits/worknoon-wordpress-assessment ]
 
 Demo Video:
-https://github.com/RextechITS/worknoon-wordpress-assessment/
 
-Author
+Author:
 Henry Nwobodo (Co-Founder DragsDev)
 WordPress Developer | Frontend | SEO Systems
