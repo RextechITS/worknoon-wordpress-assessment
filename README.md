@@ -129,7 +129,7 @@ Setup Instructions
 
 1. Clone the repository:
 
-   git clone https://github.com/rextechits/worknoon-wordpress-assessment.git
+   git clone [https://github.com/rextechits/worknoon-wordpress-assessment]
 
 2. Move files into your WordPress environment:
    - Place theme/plugin files in `/wp-content/`and db
@@ -192,14 +192,16 @@ Future Improvements
 - Implement advanced event tracking
 
 Demo Video
-[Insert Video Link Here]
+Complete Loom video URLs -
+[https://www.loom.com/share/70a14e614e7143d4acb36e72340cc53a] - First half
+[https://www.loom.com/share/9e3c4731763441ff9309f4914439e6b2] - Concluding Video
 
 Submission
 
 GitHub Repository:
-[GitHub Repo Link - https://github.com/rextechits/worknoon-wordpress-assessment ]
+GitHub Repo Link - [https://github.com/rextechits/worknoon-wordpress-assessment]
 
-Live Test URL [https://heenry.breatha.org]
+Live Practical Test URL [https://heenry.breatha.org]
 
 Demo Video:
 
