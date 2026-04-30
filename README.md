@@ -33,7 +33,7 @@ Content Layer (Structured Data)
 - Avoids hardcoding content inside Elementor
 
 SEO Layer:
-Google Search Console is/will be configured for indexing monitoring, sitemap submission, and crawl diagnostics
+Google Search Console is configured for indexing monitoring, sitemap submission, and crawl diagnostics
 
 - Schema markup (JSON-LD)
 - Proper heading hierarchy (H1–H3)
@@ -191,10 +191,13 @@ Future Improvements
 - Enhance schema with more entity relationships
 - Implement advanced event tracking
 
-Demo Video
+Demo Video:
 Complete Loom video URLs -
+
 [https://www.loom.com/share/70a14e614e7143d4acb36e72340cc53a] - First half
-[https://www.loom.com/share/9e3c4731763441ff9309f4914439e6b2] - Concluding Video
+
+[https://www.loom.com/share/dcfc76e49263458ca172642668f5a300] - Concluding Video
+
 
 Submission
 
@@ -202,8 +205,6 @@ GitHub Repository:
 GitHub Repo Link - [https://github.com/rextechits/worknoon-wordpress-assessment]
 
 Live Practical Test URL [https://heenry.breatha.org]
-
-Demo Video:
 
 Author:
 Henry Nwobodo (Co-Founder DragsDev)
