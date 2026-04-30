@@ -33,7 +33,7 @@ Content Layer (Structured Data)
 - Avoids hardcoding content inside Elementor
 
 SEO Layer:
-Google Search Console is/will be configured for indexing monitoring, sitemap submission, and crawl diagnostics
+Google Search Console is configured for indexing monitoring, sitemap submission, and crawl diagnostics
 
 - Schema markup (JSON-LD)
 - Proper heading hierarchy (H1–H3)
