@@ -132,9 +132,10 @@ Setup Instructions
    git clone https://github.com/rextechits/worknoon-wordpress-assessment.git
 
 2. Move files into your WordPress environment:
-   - Place theme/plugin files in `/wp-content/`
+   - Place theme/plugin files in `/wp-content/`. Complete site files is attached too.
+   - Also use the live url to view the practical test [https://heenry.breatha.org]
 
-3. Import database (if applicable)
+3. Import database (if applicable) - database attached
 
 4. Install required plugins:
    - Elementor/Elementor Pro
@@ -191,13 +192,14 @@ Future Improvements
 - Implement advanced event tracking
 
 Demo Video
-
 [Insert Video Link Here]
 
 Submission
 
 GitHub Repository:
 [GitHub Repo Link - https://github.com/rextechits/worknoon-wordpress-assessment ]
+
+Live Test URL [https://heenry.breatha.org]
 
 Demo Video:
 
