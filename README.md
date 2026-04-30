@@ -133,7 +133,7 @@ Setup Instructions
 
 2. Move files into your WordPress environment:
    - Place theme/plugin files in `/wp-content/`and db
-   - Also use the live url to view the practical test [https://heenry.breatha.org]
+   - Also use the live url to view the practical test [https://henry.breatha.org]
 
 3. Import database (if applicable) - database attached
 
@@ -198,13 +198,12 @@ Complete Loom video URLs -
 
 [https://www.loom.com/share/dcfc76e49263458ca172642668f5a300] - Concluding Video
 
-
 Submission
 
 GitHub Repository:
 GitHub Repo Link - [https://github.com/rextechits/worknoon-wordpress-assessment]
 
-Live Practical Test URL [https://heenry.breatha.org]
+Live Practical Test URL [https://henry.breatha.org]
 
 Author:
 Henry Nwobodo (Co-Founder DragsDev)
