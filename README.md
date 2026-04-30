@@ -191,7 +191,7 @@ Future Improvements
 - Enhance schema with more entity relationships
 - Implement advanced event tracking
 
-Demo Video
+Demo Video:
 Complete Loom video URLs -
 
 [https://www.loom.com/share/70a14e614e7143d4acb36e72340cc53a] - First half
@@ -205,8 +205,6 @@ GitHub Repository:
 GitHub Repo Link - [https://github.com/rextechits/worknoon-wordpress-assessment]
 
 Live Practical Test URL [https://heenry.breatha.org]
-
-Demo Video:
 
 Author:
 Henry Nwobodo (Co-Founder DragsDev)
