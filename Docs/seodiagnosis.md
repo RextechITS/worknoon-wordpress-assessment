@@ -20,7 +20,7 @@ Step-by-Step Diagnosis Process:
 2. Robots.txt Audit
 
 Check:
-https://henry.breatha.org/robots.txt
+https://henry.breatha.org/robots.txt (not set)
 
 Issues to look for: - Disallowed important pages:
 Disallow: / - Blocking critical resources (CSS, JS)
@@ -38,7 +38,7 @@ Fix: - Remove `noindex` - Disable:
 Settings → Reading → “Discourage search engines from indexing this site”
 
 4. XML Sitemap Issues
-   Validate sitemap: https://henry.breatha.org/sitemap.xml
+   Validate sitemap: https://henry.breatha.org/sitemap.xml (not set)
 
 Check for: - Broken URLs - Missing pages - Incorrect canonical links
 
