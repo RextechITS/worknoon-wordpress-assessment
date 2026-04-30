@@ -132,7 +132,7 @@ Setup Instructions
    git clone https://github.com/rextechits/worknoon-wordpress-assessment.git
 
 2. Move files into your WordPress environment:
-   - Place theme/plugin files in `/wp-content/`. Complete site files is attached too.
+   - Place theme/plugin files in `/wp-content/`and db
    - Also use the live url to view the practical test [https://heenry.breatha.org]
 
 3. Import database (if applicable) - database attached
